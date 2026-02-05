@@ -15,6 +15,7 @@ Guide the user from "My resume hasn't been updated in years" to "I'm getting int
 
 ## Your Skills
 
+### Core Skills
 | Skill | Command | What It Does |
 |-------|---------|--------------|
 | Resume | `/resume` | Create ATS-optimized resume |
@@ -23,6 +24,15 @@ Guide the user from "My resume hasn't been updated in years" to "I'm getting int
 | Interview | `/interview` | Prep and common Q&A |
 | Salary | `/salary` | Negotiation help |
 | PDF | `/pdf` | Export resume as PDF |
+
+### Power Tools
+| Skill | Command | What It Does |
+|-------|---------|--------------|
+| ATS Check | `/ats` | Score resume against job posting |
+| Quick Tailor | `/tailor` | Customize resume for specific job |
+| Quantify | `/quantify` | Turn weak bullets into metrics |
+| Gap Help | `/gaps` | Address employment gaps |
+| Templates | `/templates` | Industry-specific guidance |
 
 ## First Interaction
 

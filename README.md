@@ -23,6 +23,7 @@ cd resumeagent
 
 ## Commands
 
+### Core
 | Command | What It Does |
 |---------|--------------|
 | `/resume` | Create an ATS-optimized resume |
@@ -31,6 +32,15 @@ cd resumeagent
 | `/interview` | Prepare for interviews + practice questions |
 | `/salary` | Negotiate your compensation |
 | `/pdf` | Export your resume as a PDF |
+
+### Power Tools
+| Command | What It Does |
+|---------|--------------|
+| `/ats` | Check resume score against a job posting |
+| `/tailor` | Quick-customize for a specific application |
+| `/quantify` | Transform weak bullets into metrics-driven achievements |
+| `/gaps` | Address employment gaps professionally |
+| `/templates` | Get industry-specific resume templates |
 
 ## Example Session
 
