@@ -1,4 +1,19 @@
+# Config (keep examples)
 config/*.yaml
-output/
+!config/*.example.yaml
+
+# Output (keep examples)
+output/*.pdf
+output/*.docx
+output/*.json
+!output/example-*.json
+
+# Dependencies
+node_modules/
+
+# Environment
 .env
+
+# OS files
 .DS_Store
+Thumbs.db

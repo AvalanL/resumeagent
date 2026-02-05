@@ -30,6 +30,7 @@ cd resumeagent
 | `/linkedin` | Optimize your LinkedIn profile |
 | `/interview` | Prepare for interviews + practice questions |
 | `/salary` | Negotiate your compensation |
+| `/pdf` | Export your resume as a PDF |
 
 ## Example Session
 
@@ -69,6 +70,9 @@ STAR stories for behavioral questions. Practice for common questions. Confidence
 
 ### 💰 Salary Negotiation
 Market research. Counter-offer scripts. Beyond-salary negotiation tactics.
+
+### 📄 PDF Export
+Generate a professional, ATS-friendly PDF resume ready to send to employers.
 
 ## Files Structure
 

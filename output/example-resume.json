@@ -1,0 +1,71 @@
+{
+  "name": "Sarah Johnson",
+  "location": "Austin, TX",
+  "phone": "(555) 123-4567",
+  "email": "sarah.johnson@email.com",
+  "linkedin": "linkedin.com/in/sarahjohnson",
+  "summary": "Results-driven Product Manager with 6+ years of experience launching B2B SaaS products. Led cross-functional teams to deliver features that increased user engagement by 40% and reduced churn by 25%. Passionate about turning customer insights into products people love.",
+  "experience": [
+    {
+      "title": "Senior Product Manager",
+      "company": "TechCorp Inc.",
+      "startDate": "Jan 2021",
+      "endDate": "Present",
+      "bullets": [
+        "Led product strategy for enterprise dashboard, growing ARR from $2M to $5M in 18 months",
+        "Managed roadmap for team of 8 engineers, shipping 12 major features on schedule",
+        "Reduced customer churn by 25% through data-driven feature prioritization",
+        "Conducted 50+ customer interviews to identify unmet needs and validate solutions"
+      ]
+    },
+    {
+      "title": "Product Manager",
+      "company": "StartupXYZ",
+      "startDate": "Mar 2018",
+      "endDate": "Dec 2020",
+      "bullets": [
+        "Launched mobile app from 0 to 100K users in first year",
+        "Increased user engagement 40% by redesigning onboarding flow",
+        "Built and led beta testing program with 500+ active participants",
+        "Collaborated with engineering, design, and marketing on go-to-market strategy"
+      ]
+    },
+    {
+      "title": "Associate Product Manager",
+      "company": "BigTech Co.",
+      "startDate": "Jun 2016",
+      "endDate": "Feb 2018",
+      "bullets": [
+        "Owned feature development for analytics module serving 10K+ daily users",
+        "Wrote product requirements and user stories for engineering team",
+        "Analyzed user behavior data to identify product improvement opportunities"
+      ]
+    }
+  ],
+  "skills": [
+    "Product Strategy",
+    "Roadmap Planning",
+    "Agile/Scrum",
+    "User Research",
+    "Data Analysis",
+    "SQL",
+    "Figma",
+    "Jira",
+    "A/B Testing",
+    "Customer Interviews",
+    "Stakeholder Management",
+    "Go-to-Market"
+  ],
+  "education": [
+    {
+      "degree": "MBA, Product Management Focus",
+      "school": "University of Texas at Austin",
+      "year": "2016"
+    },
+    {
+      "degree": "BS in Computer Science",
+      "school": "Texas A&M University",
+      "year": "2014"
+    }
+  ]
+}

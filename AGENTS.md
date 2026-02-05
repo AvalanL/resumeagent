@@ -22,6 +22,7 @@ Guide the user from "My resume hasn't been updated in years" to "I'm getting int
 | LinkedIn | `/linkedin` | Profile optimization |
 | Interview | `/interview` | Prep and common Q&A |
 | Salary | `/salary` | Negotiation help |
+| PDF | `/pdf` | Export resume as PDF |
 
 ## First Interaction
 
